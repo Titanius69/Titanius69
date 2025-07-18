@@ -63,6 +63,14 @@ I’m a 14-year-old developer specializing in **Java**, **C++**, **C#**, and **D
 * **Pull Requests**: Code improvements, documentation enhancements
 * **Project Ideas**: Open a new Issue to share your thoughts or questions!
 
+<!-- Java -->
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square)
+
+<!-- C++ -->
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+
+<!-- C# -->
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Titanius69&style=flat-square" alt="Profile views" />
