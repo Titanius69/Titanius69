@@ -36,7 +36,7 @@ I’m a 14-year-old developer specializing in **Java**, **C++**, **C#**, and **D
 
 ![Contribution Graph](https://ghchart.rshah.org/Titanius69)
 
-*30+ commits in the past year*, demonstrating continuous learning and active engagement.
+*80+ commits in the past year*, demonstrating continuous learning and active engagement.
 
 ---
 
