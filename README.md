@@ -1,6 +1,6 @@
 # SufniX (Titanius69)
 
-> * "Everything is open source, if you can read assembly."*
+>  "Everything is open source, if you can read assembly."
 
 ---
 
@@ -74,12 +74,6 @@ Each project contains a comprehensive **README** covering:
 * **Issues**: Feature requests, bug reports
 * **Pull Requests**: Code improvements, documentation enhancements
 * **Project Ideas**: Open a new Issue to share your thoughts or questions!
-
----
-
-> **Thanks to everyone** who has contributed feedback and code suggestions! 🙏
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Titanius69&style=flat-square" alt="Profile views" />
