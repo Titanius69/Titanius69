@@ -69,5 +69,14 @@ I’m a 14-year-old developer specializing in **Java**, **C++**, **C#**, and **D
 
 
 <div align="center">
+  <!-- Profile views -->
   <img src="https://komarev.com/ghpvc/?username=Titanius69&style=flat-square" alt="Profile views" />
+  
+  <!-- Language badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square" alt="Java" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" alt="C++" />
+    <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square" alt="C#" />
+    <img src="https://img.shields.io/badge/DirectX-11-blue?logo=directx&logoColor=white&style=flat-square" alt="DirectX11" />
+  </p>
 </div>
