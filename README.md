@@ -26,7 +26,7 @@ I’m a 14-year-old developer specializing in **Java**, **C++**, **C#**, and **D
 | Project              | Description                                                                                                              | Language | Link                                                   |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ |
 | **Fcrypt-FingCrypt** | A robust encryption library designed to resist GPU attacks, neural network analysis, and quantum computing threats.      | C++      | [Repo](https://github.com/Titanius69/Fcrypt-FingCrypt) |
-| **LXVPN**            | A Minecraft plugin that protects servers from VPNs, TOR networks, and bots with efficient filtering and user management. | Java     | [Repo](https://github.com/Titanius69/LXVPN)            |
+| **LXVPN**            | A Minecraft plugin that protects servers from VPNs, TOR networks.                                                        | Java     | [Repo](https://github.com/Titanius69/LXVPN)            |
 | **SufniVortex**      | My custom built Web Browser with WebView2.                                                                               | C#       | [Repo](https://github.com/Titanius69/SufniVortex)      |
 | **FPSOverlay**       | A DirectX11-based FPS overlay for Windows applications, in a seperate window.                                            | C++      | [Repo](https://github.com/Titanius69/FPSOverlay)       |
 
